@@ -1,1 +1,1 @@
-game.shader.presets https://github.com/VelocityRa/game.shader.presets master
+game.shader.presets https://github.com/garbear/game.shader.presets import-shaders
