@@ -1,1 +1,0 @@
-game.libretro.mupen64plus https://github.com/MastaG/game.libretro.mupen64plus master
