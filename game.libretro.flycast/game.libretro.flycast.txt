@@ -1,1 +1,1 @@
-game.libretro.flycast https://github.com/kodi-game/game.libretro.flycast master
+game.libretro.flycast https://github.com/MastaG/game.libretro.flycast master
