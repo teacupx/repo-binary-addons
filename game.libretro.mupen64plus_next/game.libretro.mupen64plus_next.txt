@@ -1,1 +1,1 @@
-game.libretro.mupen64plus_next https://github.com/MastaG/game.libretro.mupen64plus_next master
+game.libretro.mupen64plus_next https://github.com/teacupx/game.libretro.mupen64plus_next master

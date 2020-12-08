@@ -1,1 +1,1 @@
-game.libretro.uae https://github.com/kodi-game/game.libretro.uae master
+game.libretro.uae https://github.com/teacupx/game.libretro.uae master
